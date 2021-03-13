@@ -3,6 +3,8 @@
 Notebooks relative to following article :
 Molecular significance of Rock-Eval® S2 pyrograms
 
+![ScreenShot](./images/bokeh_plot.png)
+
 Browse the notebooks from http://nbviewer.ipython.org/github/PBrockmann/Pyrograms/tree/main/notebooks
 
 Test it with binder. Please click on the icon !
